@@ -1,0 +1,1041 @@
+sport,market,game/event,player,site,odds
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Best Line: FanDuel,"('-4.5', '-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,True Line,"('-4.5', '-101')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,DraftKings,"('-4.5', '-112')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,FanDuel,"('-4.5', '-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,PointsBet,"('-4.5', '-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetRivers,"('-4.5', '-112')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetMGM,"('-4.5', '-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Bet365,"('-4.5', '-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Sugarhouse,"('-4.5', '-112')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Utah Jazz,888sports,"('-4.5', '-112')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Best Line,"('225.5', 'o-108')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,True Line,"('225.5', 'o-101')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,DraftKings,"('225', 'o-113')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,FanDuel,"('225.5', 'u-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,PointsBet,"('225.5', 'o-115')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetRivers,"('225.5', 'u-113')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetMGM,"('225.5', 'u-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Bet365,"('225.5', 'u-110')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Sugarhouse,"('225.5', 'u-113')"
+NBA,Advanced,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,888sports,"('225.5', 'u-113')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Best Line: MGM,"('-8.5', '-120')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,True Line,"('-9', '-101')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,DraftKings,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,FanDuel,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,PointsBet,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetRivers,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetMGM,"('-8.5', '-120')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Bet365,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Sugarhouse,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,888sports,"('-9', '-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Best Line,"('218', 'o-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,True Line,"('218', 'u-100')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,DraftKings,"('218', 'o-113')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,FanDuel,"('218', 'u-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,PointsBet,"('218', 'o-115')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetRivers,"('218', 'o-113')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetMGM,"('217.5', 'o-115')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Bet365,"('218', 'u-110')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Sugarhouse,"('218', 'o-113')"
+NBA,Advanced,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,888sports,"('218', 'o-113')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Best Line,"('225.5', 'o-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,True Line,"('226.5', 'u-101')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,DraftKings,"('226', 'u-113')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,FanDuel,"('226.5', 'o-120')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,PointsBet,"('226', 'o-120')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetRivers,"('226', 'u-113')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetMGM,"('225.5', 'u-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Bet365,"('226.5', 'u-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Sugarhouse,"('226', 'u-113')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,888sports,"('226', 'u-113')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Best Line: DraftKings,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,True Line,"('-10.5', '-103')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,DraftKings,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,FanDuel,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,PointsBet,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetRivers,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetMGM,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Bet365,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Sugarhouse,"('-10.5', '-110')"
+NBA,Advanced,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,888sports,"('-10.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Best Line,"('228', 'o-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,True Line,"('228', 'u-103')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,DraftKings,"('228', 'o-113')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,FanDuel,"('228', 'u-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,PointsBet,"('228', 'o-115')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetRivers,"('228.5', 'u-113')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetMGM,"('227.5', 'o-115')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Bet365,"('228', 'u-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Sugarhouse,"('228.5', 'u-113')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,888sports,"('228.5', 'u-113')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Best Line: DraftKings,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,True Line,"('-9.5', '+102')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,DraftKings,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,FanDuel,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,PointsBet,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetRivers,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetMGM,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Bet365,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Sugarhouse,"('-9.5', '-110')"
+NBA,Advanced,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,888sports,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Best Line,"('232', 'u-105')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,True Line,"('232.5', 'u-106')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,DraftKings,"('232.5', 'o-113')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,FanDuel,"('232.5', 'u-115')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,PointsBet,"('232', 'o-115')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetRivers,"('233', 'u-113')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetMGM,"('232.5', 'u-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Bet365,"('232', 'u-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Sugarhouse,"('233', 'u-113')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,888sports,"('233', 'u-113')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Best Line: DraftKings,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,True Line,"('-9.5', '-103')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,DraftKings,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,FanDuel,"('-9.5', '-114')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,PointsBet,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetRivers,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetMGM,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Bet365,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Sugarhouse,"('-9.5', '-110')"
+NBA,Advanced,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,888sports,"('-9.5', '-110')"
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,"('227', 'u-102')"
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,"('-2.5', '-101')"
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,"('231', 'u-100')"
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,"('-7', '-100')"
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,"('231', 'u-100')"
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,"('-6', '-102')"
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,"('-6', '-100')"
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,"('215', 'u-101')"
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,"('218', 'u-100')"
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,"('-2.5', '-100')"
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,"('226.5', 'u-100')"
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,"('-13.5', '-103')"
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,"('212.5', 'u-100')"
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,"('-8', '+103')"
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,"('218', 'u-100')"
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,"('-3.5', '-104')"
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Advanced,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Best Line: FanDuel,"('-4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,True Line: -2.1% EV,"('-4.5', '-101')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,DraftKings,"('-4.5', '-112')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,FanDuel,"('-4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,PointsBet,"('-4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetRivers,"('-4.5', '-112')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetMGM,"('-4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Bet365,"('-4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Sugarhouse,"('-4.5', '-112')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Utah Jazz,888sports,"('-4.5', '-112')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Best Line: DraftKings,"('+4.5', '-109')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,True Line: -2.4% EV,"('+4.5', '+101')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,DraftKings,"('+4.5', '-109')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,FanDuel,"('+4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,PointsBet,"('+4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetRivers,"('+4.5', '-109')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetMGM,"('+4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Bet365,"('+4.5', '-110')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Sugarhouse,"('+4.5', '-109')"
+NBA,Spread,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,888sports,"('+4.5', '-109')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Best Line: MGM,"('-8.5', '-120')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,True Line: -1.9% EV,"('-9', '-101')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,DraftKings,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,FanDuel,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,PointsBet,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetRivers,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetMGM,"('-8.5', '-120')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Bet365,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Sugarhouse,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,888sports,"('-9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Best Line: DraftKings,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,True Line: -2.6% EV,"('+9', '+101')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,DraftKings,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,FanDuel,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,PointsBet,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetRivers,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetMGM,"('+8.5', '-100')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Bet365,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Sugarhouse,"('+9', '-110')"
+NBA,Spread,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,888sports,"('+9', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Best Line: DraftKings,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,True Line: -3.1% EV,"('+10.5', '+103')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,DraftKings,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,FanDuel,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,PointsBet,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetRivers,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetMGM,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Bet365,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Sugarhouse,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,888sports,"('+10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Best Line: DraftKings,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,True Line: -1.6% EV,"('-10.5', '-103')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,DraftKings,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,FanDuel,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,PointsBet,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetRivers,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetMGM,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Bet365,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Sugarhouse,"('-10.5', '-110')"
+NBA,Spread,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,888sports,"('-10.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Best Line: DraftKings,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,True Line: -1.9% EV,"('+9.5', '-102')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,DraftKings,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,FanDuel,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,PointsBet,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetRivers,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetMGM,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Bet365,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Sugarhouse,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,888sports,"('+9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Best Line: DraftKings,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,True Line: -2.9% EV,"('-9.5', '+102')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,DraftKings,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,FanDuel,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,PointsBet,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetRivers,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetMGM,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Bet365,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Sugarhouse,"('-9.5', '-110')"
+NBA,Spread,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,888sports,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Best Line: FanDuel,"('+9.5', '-105')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,True Line: -2.0% EV,"('+9.5', '+103')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,DraftKings,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,FanDuel,"('+9.5', '-105')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,PointsBet,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetRivers,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetMGM,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Bet365,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Sugarhouse,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,888sports,"('+9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Best Line: DraftKings,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,True Line: -1.6% EV,"('-9.5', '-103')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,DraftKings,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,FanDuel,"('-9.5', '-114')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,PointsBet,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetRivers,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetMGM,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Bet365,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Sugarhouse,"('-9.5', '-110')"
+NBA,Spread,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,888sports,"('-9.5', '-110')"
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,"('+2.5', '+101')"
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,"('-2.5', '-101')"
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,"('+7', '-100')"
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,"('-7', '-100')"
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,"('+6', '+102')"
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,"('-6', '-102')"
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,"('-6', '-100')"
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,"('+6', '-100')"
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,"('+2.5', '-100')"
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,"('-2.5', '-100')"
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,"('+13.5', '+103')"
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,"('-13.5', '-103')"
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,"('+8', '-103')"
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,"('-8', '+103')"
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,"('+3.5', '+104')"
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,"('-3.5', '-104')"
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Spread,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Best Line: Bet365,-180
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,True Line: -1.6% EV,-168
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,DraftKings,-190
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,FanDuel,-188
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,PointsBet,-190
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetRivers,-190
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetMGM,-189
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Bet365,-180
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Sugarhouse,-190
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Utah Jazz,888sports,-190
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Best Line: DraftKings,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,True Line: -1.1% EV,+168
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,DraftKings,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,FanDuel,+158
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,PointsBet,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetRivers,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetMGM,+155
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Bet365,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Sugarhouse,+160
+NBA,Moneyline,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,888sports,+155
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Best Line: DraftKings,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,True Line: -3.3% EV,-344
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,DraftKings,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,FanDuel,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,PointsBet,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetRivers,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetMGM,-455
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Bet365,-425
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Sugarhouse,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,888sports,-420
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Best Line: MGM,+333
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,True Line: -0.6% EV,+344
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,DraftKings,+320
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,FanDuel,+330
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,PointsBet,+320
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetRivers,+320
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetMGM,+333
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Bet365,+325
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Sugarhouse,+320
+NBA,Moneyline,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,888sports,+320
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Best Line: FanDuel,+490
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,True Line: -0.3% EV,+499
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,DraftKings,+430
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,FanDuel,+490
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,PointsBet,+450
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetRivers,+430
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetMGM,+450
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Bet365,+475
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Sugarhouse,+430
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,888sports,+430
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Best Line: DraftKings,-590
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,True Line: -2.3% EV,-499
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,DraftKings,-590
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,FanDuel,-670
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,PointsBet,-630
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetRivers,-590
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetMGM,-625
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Bet365,-650
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Sugarhouse,-590
+NBA,Moneyline,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,888sports,-590
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Best Line: DraftKings,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,True Line: -0.1% EV,+353
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,DraftKings,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,FanDuel,+330
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,PointsBet,+340
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetRivers,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetMGM,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Bet365,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Sugarhouse,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,888sports,+350
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Best Line: FanDuel,-420
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,True Line: -2.9% EV,-353
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,DraftKings,-455
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,FanDuel,-420
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,PointsBet,-460
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetRivers,-455
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetMGM,-455
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Bet365,-450
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Sugarhouse,-455
+NBA,Moneyline,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,888sports,-455
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Best Line: DraftKings,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,True Line: -1.4% EV,+381
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,DraftKings,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,FanDuel,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,PointsBet,+340
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetRivers,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetMGM,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Bet365,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Sugarhouse,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,888sports,+350
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Best Line: FanDuel,-450
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,True Line: -2.6% EV,-381
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,DraftKings,-455
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,FanDuel,-450
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,PointsBet,-460
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetRivers,-455
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetMGM,-455
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Bet365,-450
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Sugarhouse,-455
+NBA,Moneyline,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,888sports,-455
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,+129
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,-129
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,+243
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,-243
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,+213
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,-213
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,-207
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,+207
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,+128
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,-128
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,+776
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,-776
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,+276
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,-276
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,+155
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,-155
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Moneyline,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Best Line,"('225.5', '-108')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,True Line: -1.6% EV,"('225.5', '-101')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,DraftKings,"('225', '-113')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,FanDuel,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,PointsBet,"('225.5', '-115')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetRivers,"('225.5', '-108')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,BetMGM,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Bet365,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,Sugarhouse,"('225.5', '-108')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Utah Jazz,888sports,"('225.5', '-108')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Best Line,"('225.5', '-105')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,True Line: -1.5% EV,"('225.5', '+101')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,DraftKings,"('225', '-108')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,FanDuel,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,PointsBet,"('225.5', '-105')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetRivers,"('225.5', '-113')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,BetMGM,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Bet365,"('225.5', '-110')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,Sugarhouse,"('225.5', '-113')"
+NBA,Over/Under,Utah Jazz vs. Brooklyn Nets,Brooklyn Nets,888sports,"('225.5', '-113')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Best Line,"('218', '-110')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,True Line: -2.4% EV,"('218', '-100')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,DraftKings,"('218', '-113')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,FanDuel,"('218', '-110')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,PointsBet,"('218', '-115')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetRivers,"('218', '-113')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,BetMGM,"('217.5', '-115')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Bet365,"('218', '-110')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,Sugarhouse,"('218', '-113')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Los Angeles Lakers,888sports,"('218', '-113')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Best Line,"('218', '-105')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,True Line: -1.3% EV,"('218', '-100')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,DraftKings,"('218', '-108')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,FanDuel,"('218', '-110')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,PointsBet,"('218', '-105')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetRivers,"('218', '-108')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,BetMGM,"('217.5', '-105')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Bet365,"('218', '-110')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,Sugarhouse,"('218', '-108')"
+NBA,Over/Under,Los Angeles Lakers vs. Memphis Grizzlies,Memphis Grizzlies,888sports,"('218', '-108')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Best Line,"('225.5', '-110')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,True Line: -4.5% EV,"('226.5', '+101')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,DraftKings,"('226', '-109')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,FanDuel,"('226.5', '-120')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,PointsBet,"('226', '-120')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetRivers,"('226', '-109')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,BetMGM,"('225.5', '-110')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Bet365,"('226.5', '-110')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,Sugarhouse,"('226', '-109')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Minnesota Timberwolves,888sports,"('226', '-109')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Best Line,"('226.5', '-100')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,True Line: 0.3% EV,"('226.5', '-101')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,DraftKings,"('226', '-113')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,FanDuel,"('226.5', '-100')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,PointsBet,"('226', '-100')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetRivers,"('226', '-113')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,BetMGM,"('225.5', '-110')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Bet365,"('226.5', '-110')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,Sugarhouse,"('226', '-113')"
+NBA,Over/Under,Minnesota Timberwolves vs. Denver Nuggets,Denver Nuggets,888sports,"('226', '-113')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Best Line,"('228', '-110')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,True Line: -3.1% EV,"('228', '+103')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,DraftKings,"('228', '-113')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,FanDuel,"('228', '-110')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,PointsBet,"('228', '-115')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetRivers,"('228.5', '-108')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,BetMGM,"('227.5', '-115')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Bet365,"('228', '-110')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,Sugarhouse,"('228.5', '-108')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,San Antonio Spurs,888sports,"('228.5', '-108')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Best Line,"('228', '-105')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,True Line: -0.5% EV,"('228', '-103')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,DraftKings,"('228', '-108')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,FanDuel,"('228', '-110')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,PointsBet,"('228', '-105')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetRivers,"('228.5', '-113')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,BetMGM,"('227.5', '-105')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Bet365,"('228', '-110')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,Sugarhouse,"('228.5', '-113')"
+NBA,Over/Under,San Antonio Spurs vs. Los Angeles Clippers,Los Angeles Clippers,888sports,"('228.5', '-113')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Best Line,"('232.5', '-105')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,True Line: -2.6% EV,"('232.5', '+106')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,DraftKings,"('232.5', '-113')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,FanDuel,"('232.5', '-105')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,PointsBet,"('232', '-115')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetRivers,"('233', '-108')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,BetMGM,"('232.5', '-110')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Bet365,"('232', '-110')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,Sugarhouse,"('233', '-108')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Chicago Bulls,888sports,"('233', '-108')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Best Line,"('232', '-105')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,True Line: NaN% EV,"('232.5', '-106')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,DraftKings,"('232.5', '-108')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,FanDuel,"('232.5', '-115')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,PointsBet,"('232', '-105')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetRivers,"('233', '-113')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,BetMGM,"('232.5', '-110')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Bet365,"('232', '-110')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,Sugarhouse,"('233', '-113')"
+NBA,Over/Under,Chicago Bulls vs. Portland Trail Blazers,Portland Trail Blazers,888sports,"('233', '-113')"
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,Best Line,"('227', '+102')"
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Houston Rockets,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,Best Line,"('227', '-102')"
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Houston Rockets vs. Indiana Pacers,Indiana Pacers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,Best Line,"('231', '-100')"
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Washington Wizards,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,Best Line,"('231', '-100')"
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Washington Wizards vs. Philadelphia 76ers,Philadelphia 76ers,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,Best Line,"('231', '-100')"
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Charlotte Hornets,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,Best Line,"('231', '-100')"
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Charlotte Hornets vs. Atlanta Hawks,Atlanta Hawks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,Best Line,"('215', '+101')"
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,Utah Jazz,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,Best Line,"('215', '-101')"
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Utah Jazz vs. New York Knicks,New York Knicks,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,Best Line,"('218', '-100')"
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Boston Celtics,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,Best Line,"('218', '-100')"
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Boston Celtics vs. Miami Heat,Miami Heat,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,Best Line,"('226.5', '-100')"
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Detroit Pistons,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,Best Line,"('226.5', '-100')"
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Detroit Pistons vs. Milwaukee Bucks,Milwaukee Bucks,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,Best Line,"('212.5', '-100')"
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,Oklahoma City Thunder,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,Best Line,"('212.5', '-100')"
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Oklahoma City Thunder vs. New Orleans Pelicans,New Orleans Pelicans,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,Best Line,"('218', '-100')"
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Toronto Raptors,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,Best Line,"('218', '-100')"
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
+NBA,Over/Under,Toronto Raptors vs. Phoenix Suns,Phoenix Suns,True Line,No Lines
