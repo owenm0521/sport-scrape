@@ -2,7 +2,9 @@
 
 from selenium import webdriver
 import pandas
+import selenium.common.exceptions
 from selenium.webdriver import ActionChains
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -18,12 +20,11 @@ class SportScraper:
         self.path = path
         self.driver = self.__create_driver()
         self.pages = self.__get_market_pages()
-        self.tables = self.__get_tables()
         self.__get_players() if sport_name == 'NBA' else self.__get_events()
         self.lines_and_sportsbooks = self.__get_lines_and_books()
         self.data = data.Table()
-        for i in range(len(self.tables)):
-            self.__scrape_NBA_table(self.tables[i], i) if sport_name == 'NBA' else self.__scrape_PGA_table(self.tables[i], i)
+        for i in range(len(self.pages)):
+            self.__scrape_NBA_table(self.pages[i], i) if sport_name == 'NBA' else self.__scrape_PGA_table(self.pages[i], i)
 
     def __create_driver(self):
         options = webdriver.ChromeOptions()
@@ -55,27 +56,99 @@ class SportScraper:
             # add market to sport
             curr_market = data.Market(market)
             self.sport.markets.append(curr_market)
-            # iterate through market pages
+            # refresh page
+            self.driver.refresh()
+            # wait for page load
+            WebDriverWait(self.driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'html')))
+            WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.TAG_NAME, 'html')))
+            while True:
+                x = self.driver.execute_script("return document.readyState")
+                if x == "complete":
+                    break
+            # switch to current market page
             market_xpath = "//span[text()='%s']" % str(market)
-            WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH, market_xpath)))
+            WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, market_xpath)))
             button = self.driver.find_elements_by_xpath(market_xpath)[0]
-            ActionChains(self.driver).move_to_element(button).click(button).perform()
-            html = self.driver.execute_script('return document.body.innerHTML;')
+            ActionChains(self.driver).move_to_element(to_element=button).click(on_element=button).perform()
+            # wait for page load
+            WebDriverWait(self.driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'html')))
+            WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.TAG_NAME, 'html')))
+            while True:
+                x = self.driver.execute_script("return document.readyState")
+                if x == "complete":
+                    break
+            # save page
+            html = self.driver.execute_script('return document.body.outerHTML;')
             tree = etree.HTML(html)
             # get unavailable rows
-            last_row_index = 0
-            while True:
-                table_xpath = "//div[@class='ag-body-viewport ag-layout-normal ag-row-no-animation']"
-                WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH, table_xpath)))
-                table = self.driver.find_element_by_xpath(table_xpath)
-                try:
-                    last_row_index += 30
-                    last_row = tree.xpath(table_xpath)[0].xpath(".//div[@row-index='%d']" % last_row_index)[0]
-                    scroll_to = table.find_element_by_xpath(".//div[@row-index='%d']" % (last_row_index + 1))
-                    ActionChains(self.driver).move_to_element(scroll_to).perform()
-                    last_row.append(etree.HTML(self.driver.execute_script('return document.body.innerHTML;')))
-                except Exception:
-                    break
+            table_xpaths = ["//div[@class='ag-pinned-left-cols-container']",
+                            "//div[@class='ag-center-cols-clipper']//div[@class='ag-center-cols-viewport']//div[@class='ag-center-cols-container']" ]
+            table_classes = ['ag-pinned-left-cols-container', 'ag-center-cols-container']
+            for t in range(len(table_xpaths)):
+                # get table
+                while True:
+                    try:
+                        # scroll to top
+                        html = self.driver.find_element_by_tag_name('html')
+                        html.click()
+                        html.send_keys(Keys.PAGE_UP)
+                        ActionChains(self.driver).move_to_element(to_element=html).click(on_element=html).perform()
+                        ActionChains(self.driver).send_keys(Keys.PAGE_UP).perform()
+                        ActionChains(self.driver).key_down(Keys.CONTROL).send_keys(Keys.HOME).perform()
+                        # wait for table load
+                        WebDriverWait(self.driver, 30).until(EC.presence_of_element_located((By.TAG_NAME, 'html')))
+                        WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.TAG_NAME, 'html')))
+                        stale_element = True
+                        while stale_element:
+                            try:
+                                self.driver.find_element_by_class_name(table_classes[t])
+                                stale_element = False
+                            except selenium.common.exceptions.StaleElementReferenceException:
+                                stale_element = True
+                        table = self.driver.find_element_by_class_name(table_classes[t])
+                        ActionChains(self.driver).move_to_element(to_element=table).perform()
+                        break
+                    except (Exception, selenium.common.exceptions):
+                        continue
+                # scroll down until bottom of page
+                self.driver.implicitly_wait(1)
+                last_row_index = 30
+                while True:
+                    try:
+                        # wait for table load
+                        stale_element = True
+                        while stale_element:
+                            try:
+                                self.driver.find_element_by_class_name(table_classes[t])
+                                stale_element = False
+                            except selenium.common.exceptions.StaleElementReferenceException:
+                                stale_element = True
+                        # wait for table rows load
+                        row_xpath = "//div[@row-index='%d']" % last_row_index
+                        stale_element = True
+                        while stale_element:
+                            try:
+                                scroll_to = self.driver.find_element_by_xpath(table_xpaths[t] + row_xpath)
+                                stale_element = False
+                            except selenium.common.exceptions.StaleElementReferenceException:
+                                stale_element = True
+                        # scroll to new rows
+                        WebDriverWait(self.driver, 30).until(EC.presence_of_element_located((By.XPATH, table_xpaths[t] + row_xpath)))
+                        ActionChains(self.driver).move_to_element(to_element=scroll_to).click(on_element=scroll_to).perform()
+                        WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.XPATH, table_xpaths[t] + row_xpath)))
+                        self.driver.implicitly_wait(1)
+                        # save new table
+                        temp_table_html = etree.HTML(self.driver.execute_script("return document.body.outerHTML;"))
+                        rows = temp_table_html.xpath(table_xpaths[t])[0].xpath(".//div[@role='row']")
+                        # save new rows from table
+                        for row in rows:
+                            if int(row.get('row-index')) > last_row_index:
+                                tree.xpath(table_xpaths[t])[0].append(row)
+                        last_row_index += 13
+                    except selenium.common.exceptions.StaleElementReferenceException:
+                        continue
+                    except selenium.common.exceptions.NoSuchElementException:
+                        break
             market_pages.append(tree)
         self.driver.quit()
         return market_pages
@@ -100,17 +173,19 @@ class SportScraper:
 
     def __get_events(self):
         for market_page in range(len(self.pages)):
-            events_table = self.pages[market_page].xpath(".//div[@class='ag-full-width-container']")[0]
-            all_events = events_table.xpath(".//div[@role='row']")
+            event_container_xpath = "//div[@class='ag-full-width-container']"
+            event_container = self.pages[market_page].xpath(event_container_xpath)
+            for e in event_container:
+                all_events = e.xpath(".//span[@class='ag-group-value']")
+                if len(all_events) > 0:
+                    break
             event_xpath = ".//i[@class='fa fa-golf-ball pr-1']"
             event_text_xpath = ".//span[not(@*)]/text()"
             for i in range(len(all_events)):
-                try:
-                    event = all_events[i].xpath(event_xpath)[0]
+                event = all_events[i].xpath(event_xpath)
+                if len(event) > 0:
                     event_text = all_events[i].xpath(event_text_xpath)[0]
                     self.sport.markets[market_page].events.append(data.Event(event_text))
-                except Exception:
-                    continue
             self.__get_players_by_event(market_page)
 
     def __get_players_by_event(self, market_index):
@@ -121,9 +196,17 @@ class SportScraper:
         table = curr_page.xpath(table_xpath)[0]
         table_rows_xpath = ".//div[@role='row']"
         table_rows = table.xpath(table_rows_xpath)
+
+        max_row_index = 0
+        for row in table_rows:
+            try:
+                if int(row.get('row-index')) > max_row_index:
+                    max_row_index = int(row.get('row-index'))
+            except TypeError:
+                continue
         row_index = 1
         event_index = -1
-        while row_index < (len(table_rows) + len(events) + 1):
+        while row_index < (max_row_index + len(events) + 1):
             try:
                 curr_row = table.xpath(".//div[@row-index='%d']" % row_index)[0]
                 player = curr_row.xpath(".//span[@class='pl-1']")[0].text
@@ -148,16 +231,8 @@ class SportScraper:
             lines_and_sportsbooks = lines
         return lines_and_sportsbooks
 
-    def __get_tables(self):
-        table_xpath = "//div[@class='ag-center-cols-container']"
-        tables = []
-        for market_page in range(len(self.pages)):
-            table = self.pages[market_page].xpath(table_xpath)[0]
-            tables.append(table)
-        return tables
-
     def __scrape_NBA_table(self, market_table, market_index):
-        table = market_table
+        table = market_table.xpath("//div[@class='ag-center-cols-container']")[0]
         curr_market = self.sport.markets[market_index]
 
         # rows (n)
@@ -437,13 +512,18 @@ class SportScraper:
     def __scrape_PGA_table(self, market_table, market_index):
         table = market_table
         curr_market = self.sport.markets[market_index]
+        event_containers = self.pages[market_index].xpath(".//div[@class='ag-full-width-container']")
+        for e in event_containers:
+            all_events = e.xpath(".//span[@class='ag-group-value']")
+            if len(all_events) > 0:
+                event_container = e
+                break
+        all_events = event_container.xpath(".//div[@role='row']")
 
         # for each event
         for i in range(len(curr_market.events)):
             # find current event row
             curr_event = curr_market.events[i]
-            events_table = self.pages[market_index].xpath(".//div[@class='ag-full-width-container']")[0]
-            all_events = events_table.xpath(".//div[@role='row']")
             event_text_xpath = ".//span[not(@*)]/text()"
             for event in all_events:
                 text = event.xpath(event_text_xpath)[0]
@@ -455,7 +535,7 @@ class SportScraper:
             row_index = event_row + 1
             while row_index < (len(curr_event.players) + event_row + 1):
 
-                row_i_xpath = ".//div[@row-index='%d']" % row_index
+                row_i_xpath = ".//div[@class='ag-center-cols-clipper']//div[@row-index='%d']" % row_index
                 row_i = table.xpath(row_i_xpath)[0]
 
                 # cols (10)
@@ -559,14 +639,17 @@ def parse_image_url(url):
 
 
 def main():
-    sports = ['NBA', 'PGA']
     url = 'https://labs.actionnetwork.com/markets'
+    # sport = 'NBA' OR 'PGA'
+    sport = 'NBA'
     # specify path to chromedriver
     path = '/Users/owenmorris/Desktop/chromedriver'
-    for sport in sports:
-        scraper = SportScraper(sport, url, path)
-        scraper.get_csv(scraper.sport.sport_name)
+    # create new scraper with sport, url, path
+    scraper = SportScraper(sport, url, path)
+    # output scraped data as csv
+    scraper.get_csv(scraper.sport.sport_name)
 
 
 if __name__ == "__main__":
     main()
+
